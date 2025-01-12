@@ -1,3 +1,12 @@
+used 
+Mocked server people by id
+https://7f642d9f-42a2-40f3-b22b-3e8202acf71c.mock.pstmn.io/people/
+instead of
+https://swapi.dev/api/people
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
